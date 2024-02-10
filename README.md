@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
