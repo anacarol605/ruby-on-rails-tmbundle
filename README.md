@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+New test for labels and crops (#8861)
